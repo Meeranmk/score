@@ -4,7 +4,7 @@ metadata:
   name: my-service
   namespace: default
   annotations:
-    scorecard/jsonDataUrl: https://raw.githubusercontent.com/Meeranmk/score/refs/heads/main/scores.json
+    scorecard/jsonDataUrl: https://raw.githubusercontent.com/Meeranmk/score/main/scores.json
 spec:
   type: service
   lifecycle: production
