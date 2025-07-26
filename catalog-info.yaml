@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: my-service
+  annotations:
+    scorecard/jsonDataUrl: https://raw.githubusercontent.com/Meeranmk/score/main/scores.json
+spec:
+  type: service
+  lifecycle: production
+  owner: team-a
