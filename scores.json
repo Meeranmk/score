@@ -7,14 +7,5 @@
       { "name": "Test Coverage", "score": 80 },
       { "name": "Documentation", "score": 85 }
     ]
-  },
-  {
-    "componentRef": "component:default/another-service",
-    "score": 92,
-    "metrics": [
-      { "name": "Code Quality", "score": 95 },
-      { "name": "Test Coverage", "score": 90 },
-      { "name": "Documentation", "score": 91 }
-    ]
   }
 ]
