@@ -1,11 +1,16 @@
 [
   {
-    "componentRef": "component:default/my-service",
-    "score": 85,
-    "metrics": [
-      { "name": "Code Quality", "score": 90 },
-      { "name": "Test Coverage", "score": 80 },
-      { "name": "Documentation", "score": 85 }
+    "id": "component:default/my-service",
+    "entityRef": "component:default/my-service",
+    "scores": [
+      {
+        "id": "documentation",
+        "title": "Documentation",
+        "score": 85,
+        "maxScore": 100,
+        "description": "Service has comprehensive documentation"
+      }
     ]
   }
 ]
+
