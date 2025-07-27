@@ -1,7 +1,7 @@
 [
   {
-    "id": "component:default/my-service",
-    "entityRef": "component:default/my-service",
+    "id": "component:default/sample",
+    "entityRef": "component:default/sample",
     "scores": [
       {
         "id": "documentation",
