@@ -8,6 +8,5 @@ metadata:
     
 spec:
   type: service
-  owner: team-a
   lifecycle: production
   
